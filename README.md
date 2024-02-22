@@ -1,1 +1,1 @@
-# Data-Modeling-_Apache-Cassandra
+# Data-Modeling-Apache-Cassandra
